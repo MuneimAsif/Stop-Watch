@@ -1,0 +1,30 @@
+/*  =========== STOP WATCH ======================= */
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div1 {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin-inline: 5px;
+}
+h3{
+    margin-top: 30px;
+}
+.div2 {
+    display: flex;
+    justify-content: center;
+}
+
+.div3 {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-inline: 5px;
+}
+
+/* ===================================== */
